@@ -129,18 +129,18 @@ nav img{
 
 /*----Footer----*/
 
-.footer{
+.foot{
     width: 100%;
     text-align: center;
     padding: 30px 0;
 }
-.footer h4{
+.foot h4{
     margin-bottom: 25px;
     margin-top: 20px;
     font-weight: 600;
     font-size: 20px;
 }
-.footer p{
+.foot p{
     font-size: 14px;
 }
 .icons .fa{
