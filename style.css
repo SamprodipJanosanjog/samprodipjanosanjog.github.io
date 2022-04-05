@@ -143,6 +143,11 @@ nav img{
 .foot p{
     font-size: 14px;
 }
+.foot p a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #000;
+}
 .icons .fa{
     color: #009688;
     margin: 0 13px;
