@@ -15,17 +15,8 @@
 body{
     background-color: var(--seconday-color);
 }
-.auto{
-    width: 100%;
-    height: 100vh;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transform: translateY(-20%);
-}
 span{
-    color: #ff5e1e;
+    color: #ffae00;
     font-weight: 0;
     font-size: 55px;
 }
